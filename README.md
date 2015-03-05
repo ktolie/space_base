@@ -2,10 +2,9 @@
 
 Space_Base is a WordPress starter theme based on [Gromf] (https://github.com/schikulski/gromf) which uses [Roots](https://github.com/roots/roots) 7.0, [Foundation](http://foundation.zurb.com) & [Gulp](http://gulpjs.com) instead of Bootstrap & Grunt.
 
+## Features
 
 [Gromf README.md] (https://github.com/schikulski/gromf/blob/master/README.md)
-
-## Features
 
 Since Gromf is heavily based on [Roots](https://github.com/roots/roots), most of the features apply to Gromf, except for Grunt & Bootstrap features. Some of the features are:
 
