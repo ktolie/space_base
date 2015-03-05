@@ -1,0 +1,18 @@
+.banner { }
+
+header {
+	// position: fixed;
+	width: 100%;
+	z-index: 1;
+
+	.top-bar {
+		background: $secondary-color; 
+
+	}
+}
+
+.home .contain-to-grid .top-header {
+	
+	background: $secondary-color; 
+	z-index: 999;
+}
