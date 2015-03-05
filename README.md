@@ -4,7 +4,14 @@ Space_Base is a WordPress starter theme based on [Gromf] (https://github.com/sch
 
 ## Theme Dependencies/Tools Install Info
 - 
-- [Gulp](http://gulpjs.com/)
+- [Gulp](http://gulpjs.com/) `npm install gulp`
+
+###[Homebrew](http://brew.sh/)
+- [Homebrew PHP](https://github.com/josegonzalez/homebrew-php/)
+- PHP 5.5 `brew install php55`
+- [Composer](http://getcomposer.org/) `brew install composer`
+- [PHPDocumentor](http://www.phpdoc.org/) `brew install phpdocumentor`
+	- [GraphViz](http://www.graphviz.org/Download_macos.php) (used to create graphs)
 
 ###[RVM/Ruby](http://rvm.io/)
 - [SASS](http://sass-lang.com/install) `gem install sass`
