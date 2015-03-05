@@ -35,7 +35,7 @@ Space_Base is a WordPress starter theme based on [Gromf] (https://github.com/sch
 * [Roots Sidebar](http://roots.io/the-roots-sidebar/) — Understand how to display or hide the sidebar in Roots
 
 
-![Gromf](http://gfx.nrk.no/8gjVcNbGJF453RegYzZtzAJySRdSV_2RS9khstDHldpw)
+![Space_Base](http://kyletolie.com/screenshot.png)
 
 
 
